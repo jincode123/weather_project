@@ -3,13 +3,13 @@
   "title": "Project walkthrough",
   "steps": [
     {
-      "file": "README.md",
-      "description": "# Project Walkthrough\n\nThis repository contains everything you need to get started.\n\nThe main program `weather.py` contains functions that you need to implement.\n\nTo check that the functions are behaving as expected, tests are written beforehand in the `tests` directory. Each function in `weather.py` has a corresponding test.\n\n## Manually starting a guided tour of the project\n\nTo start a guided code tour, you can follow these steps:\n\n1. Expand the _CodeTour_ section in the bottom left of the main editor page.\n2. Right click on the _Project Walkthrough_ tour then clicking on _Start Tour_.\n3. You can end the tour at any time by right clicking on the _Project Walkthrough_ tour and then clicking on _End Tour.",
+      "file": "weather.py",
+      "description": "# Main program\n\nThe main program `weather.py` contains a list of functions for you to implement, this first function is already filled out for you to use as an example.",
       "line": 7
     },
     {
-      "file": "weather.py",
-      "description": "# Main program\n\nThe main program `weather.py` contains a list of functions for you to implement, this first function is already filled out for you to use as an example.",
+      "file": "README.md",
+      "description": "# Project Walkthrough\n\nThis repository contains everything you need to get started.\n\nThe main program `weather.py` contains functions that you need to implement.\n\nTo check that the functions are behaving as expected, tests are written beforehand in the `tests` directory. Each function in `weather.py` has a corresponding test.\n\n## Manually starting a guided tour of the project\n\nTo start a guided code tour, you can follow these steps:\n\n1. Expand the _CodeTour_ section in the bottom left of the main editor page.\n2. Right click on the _Project Walkthrough_ tour then clicking on _Start Tour_.\n3. You can end the tour at any time by right clicking on the _Project Walkthrough_ tour and then clicking on _End Tour.",
       "line": 7
     },
     {
